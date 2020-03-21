@@ -1,0 +1,21 @@
+DEVOPS is not a tool not a language not a software.
+Basically devops is a culture or we can say  different methodology for lifecycle of software development.
+devops = development + operation 
+devops team is a team of people with common goal if we talk about traditional it there are collobration of people with different goal
+and the problem with traditional-it  is blamming on others devops solve this issue
+Lifecycle of devops 
+        PLAN ===>> DEFINE ===>> DEVELOP ===>> BUILD ===>> TESTED ===>> DEPLOY  ===>>RELEASE IMPROVEMENT
+responsbilities of development team
+    1.CODE
+    2.BUILD
+    3.DEPLOY
+responsbilities of operational team
+    1.PACKING
+    2.RELEASE MANAGEMENT
+    3.APPLICATION MANAGEMENT
+    4.INFRASTRUCTURE MANAGEMENT
+    5.CONFIGURATION MANAGEMENT
+
+for getting better result we integrate all the roles.
+
+benifit of devops it increases the quality as well as speed of production.
